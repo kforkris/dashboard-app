@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  margin-right: 30px;
+  justify-content: space-between;
+  align-items: stretch;
+  .dashboard {
+    width: 80%;
+    margin-top: 40px;
+  }
+}
